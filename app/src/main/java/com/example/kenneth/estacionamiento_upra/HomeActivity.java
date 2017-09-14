@@ -1,4 +1,4 @@
-package com.sabithpkcmnr.splashscreen;
+package com.example.kenneth.estacionamiento_upra;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
