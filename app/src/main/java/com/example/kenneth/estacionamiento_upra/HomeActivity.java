@@ -18,6 +18,19 @@ public class HomeActivity extends AppCompatActivity {
         startActivity(mainIntent);
     };
 
+    public void onClickZone2(View V){
+
+        Intent mainIntent = new Intent().setClass(HomeActivity.this, Zona2.class);
+        startActivity(mainIntent);
+    };
+
+    public void onClickZone3(View V){
+
+        Intent mainIntent = new Intent().setClass(HomeActivity.this, Zona3.class);
+        startActivity(mainIntent);
+    };
+
+
 
 
 
