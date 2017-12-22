@@ -1,4 +1,6 @@
-package com.example.kenneth.estacionamiento_upra;  
+package com.example.kenneth.estacionamiento_upra;
+
+import android.support.v7.app.AppCompatActivity;  
         import android.content.Intent; 
         import android.os.Handler;
          import android.support.v7.app.AppCompatActivity;
@@ -17,7 +19,6 @@ package com.example.kenneth.estacionamiento_upra;  
 //     },SPLASH_TIME_OUT);     }
 //  }
 
-<<<<<<< Updated upstream
 
 import android.content.Context;
 import android.content.Intent;
@@ -72,5 +73,4 @@ public class Main extends AppCompatActivity {
 }
 
 
-=======
->>>>>>> Stashed changes
+
